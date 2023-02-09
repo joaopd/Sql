@@ -1,2 +1,2 @@
 #ALL
-Drop TABLE P11;
+Drop TABLE AllTable;

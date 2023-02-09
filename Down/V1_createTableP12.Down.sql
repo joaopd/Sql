@@ -1,1 +1,1 @@
-Drop TABLE P1;
+Drop TABLE PRDTABLE;
