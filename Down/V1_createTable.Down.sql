@@ -1,2 +1,2 @@
---ALL
+#ALL
 Drop TABLE P11;
