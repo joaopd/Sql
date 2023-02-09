@@ -1,0 +1,2 @@
+--ALL
+Drop TABLE P11;
