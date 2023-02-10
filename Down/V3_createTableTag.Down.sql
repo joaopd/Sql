@@ -1,0 +1,1 @@
+Drop TABLE TagV3;
