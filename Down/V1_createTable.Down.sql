@@ -1,2 +1,0 @@
-#ALL
-Drop TABLE AllTable;
