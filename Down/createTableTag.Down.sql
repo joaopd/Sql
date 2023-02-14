@@ -1,1 +1,1 @@
-Create TABLE TagV5;
+drop TABLE TagV5;
