@@ -1,2 +1,2 @@
-INSERT INT Order (name)
+INSERT INTO Order (name)
 values ("Teste order 1")
