@@ -1,4 +1,2 @@
-Create TABLE Order (
-id int primary key auto_increment not null,
-name varchar(60) not null
-);
+INSERT INT Order (name)
+values ("Teste order 1")
